@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+story_*.txt
+.DS_Store
+__MACOSX/
+*.zip
+*.tgz
+.env
